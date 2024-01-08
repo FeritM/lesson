@@ -2,6 +2,5 @@ Limonata Tarifi
 
 1.Limon
 2.Su
-3.Şeker
-4.Nane
-5.Bal
+3.Nane
+4.Bal
